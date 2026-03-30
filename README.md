@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Name : Palak Santosh Tapadiya
+
+Branch : Aerospace Engineering
+
+Year : First year
+
+I hope to learn every new thing I feel interesting at the first instance of my life.
 <!--
 **palaktapadiya/palaktapadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
